@@ -16,6 +16,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Getting Started: "getstarted"
+  Table Demo: "table-demo"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
